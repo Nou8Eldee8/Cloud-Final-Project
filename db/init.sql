@@ -21,11 +21,11 @@ CREATE TABLE  admins (
 
 INSERT INTO admins (name, username, password) VALUES ('admin', 'admin', 'admin');
 
-INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22010343, 'Ziad', 'Mohamed', 20, 3.8); 
-INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22010030, 'Ahmed', 'Mohamed', 20, 3.6); 
-INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011611, 'Mohaned', 'Hossam', 20, 3.5);
-INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011612, 'Hossam', 'Eldeen', 20, 3.4); 
-INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011610, 'Mazen', 'Ahmed', 20, 3.8); 
+INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011609, 'Nour', 'Hassan', 20, 3.4); 
+INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011606, 'Mohamed', 'Emad', 21, 3.8); 
+INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22010323, 'Omneya', 'Zayed', 20, 3.6);
+INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22010589, 'Mohamed', 'Mostafa', 19, 3.4); 
+INSERT INTO Student (id, Fname, Lname, Age, CGPA) VALUES (22011547, 'Sarah', 'Sherif', 19, 3.8); 
 
 
 

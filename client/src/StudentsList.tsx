@@ -26,8 +26,8 @@ const StudentsList: React.FC = () => {
   }, []);
 
   return (
-    <div>
-      <h2 className="text-xl font-bold mb-4">Students List</h2>
+    <div className='justify-center w-[512px] h-full bg-white rounded-xl hover:drop-shadow-lg backdrop-blur-md	 opacity-80'>
+      <h2 className="text-xl font-bold mb-4 mt-3 ml-3">Students List</h2>
       <table className="table-auto">
         <thead>
           <tr>
